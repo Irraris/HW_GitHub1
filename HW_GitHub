@@ -1,6 +1,6 @@
 TXT
  1. Создать внешний репозиторий c названием TXT - new - create - code - copy http
- 2. Клонировать репозиторий TXT на локальный компьютер. -cgit clone http...
+ 2. Клонировать репозиторий TXT на локальный компьютер. -git clone http...
  3. Внутри локального TXT создать файл “new.txt”. - touch "new.txt"
  4. Добавить файл под гит. - git add .
  5. Закоммитить файл. - git commit -m "add new.txt"
